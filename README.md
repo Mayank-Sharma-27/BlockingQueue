@@ -1,5 +1,5 @@
-Here’s a well-structured `README.md` for your `BlockingQueue` implementation. It includes documentation, interview-relevant questions (with answers), and code explanation—including **why `signalAll()` is used instead of `signal()`**.
 
+I have implemented this from a course : https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews/blocking-queue--bounded-buffer--consumer-producer
 ---
 
 ```markdown
